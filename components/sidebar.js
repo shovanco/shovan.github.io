@@ -44,6 +44,12 @@ export default function Sidebar() {
       icon: <BracketsCurly size={16} />,
       active: pathname.includes("/projects"),
     },
+    {
+      title: "Travel Map",
+      url: "/map",
+      icon: <BracketsCurly size={16} />,
+      active: pathname.includes("/map"),
+    },
 
     {
       title: "SCube",

@@ -37,11 +37,11 @@ const TIMELINE = [
     ],
   },
   {
-    title: "Where",
+    title: "Profile Photo",
     timelinedata: [
       {
-        image: "/images/experiments/sf.webp",
-        alttext: "locationImage",
+        image: "/images/pages/shovan-photo.jpg",
+        alttext: "Profile Photo",
       },
     ],
   },
