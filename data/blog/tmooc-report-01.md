@@ -23,7 +23,7 @@ In 2022, we made significant strides. We established a home service that attract
 
 As our home ministry expanded, we recognised the need for a dedicated church space. In December 2022, our church was integrated into a permanent location.
 
-Having returned to the UK to pursue my own ministry and business, I witnessed God's incredible work within TMOOC. In June 2022, I visited India to witness firsthand transformation — from a small home gathering to a church filled with over 150 people. More importantly, it was a church filled with God's presence and teachings.
+Having returned to the UK to pursue my own ministry and business, I witnessed God's incredible work within TMOOC. In June 2023, I visited India to witness firsthand transformation — from a small home gathering to a church filled with over 150 people. More importantly, it was a church filled with God's presence and teachings.
 
 Below is a video from the 7-day fasting service that happen as I just landed in India. Watch the video to get glims of how God is working with TMOOC.  
 
